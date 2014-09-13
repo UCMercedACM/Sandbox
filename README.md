@@ -5,11 +5,17 @@ A repo which is soley used for playing around and getting used to git. Please do
 
 ###Helpful Links###
 [The Pro Git book, one of the bibles of Git](http://git-scm.com/book)
+
 [A nice intro to git, delivered as a blog post](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
+
 [An overview of git commands from Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
 [Useful aliases for your .gitconfig](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
+
 [An automated .gitignore generator](https://www.gitignore.io/)
+
 [P4Merge, a top-tier tool for merging files](http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools)
+
 [KDiff3, one of the best open-source mergetools](http://kdiff3.sourceforge.net/)
 
 ##Suggested Activities##
