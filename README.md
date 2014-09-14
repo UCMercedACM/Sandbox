@@ -25,18 +25,18 @@ your new game engine code to here.
 
 ## General Tips & Tricks ##
 
-*     Don't force push. Ever. --Matt Bucci
+*     Don't force push. Ever. -[Matt Bucci](https://github.com/mattbucci)
 *     Write good commit messages. Messages like "did \*\*\*\*" or "broke it, fixed na0"
       might be cute to you now, but someone is going to want to murder you if they ever have to make
-      a revision based off of 10 commit messages that say the same, noninformative thing. --Robert Wang
+      a revision based off of 10 commit messages that say the same, noninformative thing. -[Robert Wang](https://github.com/rleewang)
 *     Instead of doing waiting a long time between commits and pushes, commit really often when you
       code. Then, before you push, use a rebase to make it look like one giant commit. (Do not do this
-      to a public repo if you don't know what you're doing. People may hate you for a very long time). --Matt Bucci
+      to a public repo if you don't know what you're doing. People may hate you for a very long time). -[Matt Bucci](https://github.com/mattbucci)
 *     If you don't like the default CLI interface, [SourceTree](http://www.sourcetreeapp.com/) is an
        excellent app that offers you the full power of git (and Mercurial!) in a nice graphical package.
 *     If you're a masochist and prefer the command line, make sure to create
       [pretty log aliases](https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs)
-      to get a better idea of what's going on with your project's history and lineage.
+      to get a better idea of what's going on with your project's history and lineage. -[Kevin Song](https://github.com/chipbuster)
 
 ##Suggested Activities##
 
