@@ -6,6 +6,8 @@ you want preserved into this repository, as it may be occasionally wiped. Also n
 [The Unlicense](http://unlicense.org/), meaning any code inside of it is public domain, so don't push
 your new game engine code to here.
 
+Note: because you, by default, check out branch "master," we have used branch "default" to provide
+a base version of this repo which is untouched save for this README.
 
 
 ##Helpful Links##
@@ -58,9 +60,10 @@ your new game engine code to here.
        blame, and cherry-pick. Collaborate with other people and learn how to do three-way merges with
        tools like [P4Merge](http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools)
        or [KDiff3](http://kdiff3.sourceforge.net/).
-*      If you like to learn by playing games, Gazler's [githug](https://github.com/Gazler/githug) may be
+*     If you like to learn by playing games, Gazler's [githug](https://github.com/Gazler/githug) may be
         your style.
-
+*	  Rebasing commits is a great way to save on logspace. Unfortunately, it can be a little tricky to get right
+	  in practice. Practice making three commits and squashing them into a single commit with `git rebase -i`
 
 #### Advanced: ####
 
